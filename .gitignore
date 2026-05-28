@@ -1,0 +1,35 @@
+# Environment
+.env
+
+# Virtual environment
+.venv/
+venv/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Database
+*.sqlite3
+*.db
+data/
+
+# Logs
+*.log
+bot.pid
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Docker
+pgdata/
