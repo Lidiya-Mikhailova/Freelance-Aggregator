@@ -12,15 +12,6 @@ Telegram bot that scrapes freelance projects from Freelancer.com, filters them b
 - **AI Job Summary** — quick analysis and recommendations for each job
 - **Spam Reporting** — mark irrelevant jobs to improve filters
 
-## Specialties
-
-| Category | Specialties |
-|----------|-------------|
-| IT | Data Engineering, Backend, Frontend, Mobile, QA |
-| Design | UX/UI, Graphic, Motion, 3D Art |
-| Marketing | SEO, SMM, PPC, Email Marketing |
-| Writing & Translation | Copywriting, Technical Writing, Translation |
-| Admin & VA | Virtual Assistant, Data Entry, Customer Support |
 
 ## Architecture
 
